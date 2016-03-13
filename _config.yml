@@ -2,7 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  # 随笔: /tags/随笔
+  GIT: /tags/git
+  JAVA: /tags/Java
+  随笔: /tags/随笔
 
 # SubNav
 subnav:
@@ -61,4 +63,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是神奇的关卫明，我爱编程，我爱生活，我爱王钰涛
+aboutme: 关哥出品。必属精品
