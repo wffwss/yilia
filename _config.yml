@@ -37,7 +37,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: http://7xk53o.com1.z0.glb.clouddn.com/avatar.png
 #是否开启分享
 share_jia: true
 share_addthis: false
