@@ -2,9 +2,12 @@
 menu:
   主页: /
   所有文章: /archives
-  GIT: /tags/git
-  JAVA: /tags/Java
+  编程工具: /tags/工具
+  Java基础: /tags/Java
+  安卓开发: /tags/安卓
+  Python: /tags/Python
   随笔: /tags/随笔
+  
 
 # SubNav
 subnav:
@@ -39,7 +42,7 @@ favicon: /favicon.png
 #你的头像url
 avatar: http://7xk53o.com1.z0.glb.clouddn.com/avatar.png
 #是否开启分享
-share_jia: true
+share_jia: false
 share_addthis: false
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
