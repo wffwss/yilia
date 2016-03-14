@@ -2,11 +2,11 @@
 menu:
   主页: /
   所有文章: /archives
-  编程工具: /tags/工具
-  Java基础: /tags/Java
-  安卓开发: /tags/安卓
-  Python: /tags/Python
-  随笔: /tags/随笔
+  编程工具: /tags/工具/
+  Java基础: /tags/Java/
+  安卓开发: /tags/安卓/
+  Python: /tags/Python/
+  随笔: /tags/随笔/
   
 
 # SubNav
