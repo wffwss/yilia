@@ -55,7 +55,8 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  我的国内博客镜像: https://zziaguan.coding.me/
+  我的国内博客镜像: http://guanweiming.top/
+  王钰涛的博客: http://wangyutao.top/
   #卡卡的美丽传说: http://localhost:4000/
  # 本泽马的博客: http://localhost:4000/
  # 吉格斯的博客: http://localhost:4000/
