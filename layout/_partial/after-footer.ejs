@@ -1,5 +1,5 @@
 <% if (theme.fancybox){ %>
-  <%- css('fancybox/jquery.fancybox') %>
+  <%- css('http://apps.bdimg.com/libs/fancybox/2.1.5/jquery.fancybox') %>
 <% } %>
 
 <script>
@@ -15,12 +15,12 @@
 		open_in_new: <%=theme.open_in_new%>
 	}
 </script>
-<%- js('http://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min') %>
-<%- js('js/main') %>
+<%- js('http://7xrxc8.com1.z0.glb.clouddn.com/require-2.1.6,jquery-1.9.1.min.js') %>
+<%- js('http://7xrxc8.com1.z0.glb.clouddn.com/js/main') %>
 
 
 <%- partial('google-analytics') %>
 
-<% if (theme.mathjax){ %>
+<% if (page.mathjax){ %>
 <%- partial('mathjax') %>
 <% } %>
