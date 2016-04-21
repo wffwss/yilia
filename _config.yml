@@ -2,12 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  编程工具: /tags/工具/
   Java基础: /tags/Java/
   安卓开发: /tags/安卓/
   Python: /tags/Python/
-  随笔: /tags/随笔/
-  C语言: /tags/C语言/
   
 
 # SubNav
@@ -58,6 +55,7 @@ tagcloud: true
 friends:
   我的国内博客镜像: http://guanweiming.top/
   王钰涛的博客: http://wangyutao.top/
+  方应春: http://blog.csdn.net/u013769274/
   #卡卡的美丽传说: http://localhost:4000/
  # 本泽马的博客: http://localhost:4000/
  # 吉格斯的博客: http://localhost:4000/
